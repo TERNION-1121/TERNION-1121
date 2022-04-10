@@ -4,13 +4,12 @@
 <hr>
 
 ### A bit more about me
-1. **I live in _India_ and currently in school, _8th standard_ to be specific.**
+1. **I live in _India_ and currently in school, _9th standard_ to be specific.**
 2. 👀 I’m interested in learning about how to code and programming.
-3. _🌱 I’m currently learning C programming language_
-4. `printf("Hello, World! This is Terry communicating with you all using C language!");`
-5. Tech enthusiast, reader, learning graphic designing.
-6. Loves learning new _skills_.
-7. Have learnt basics of __HTML__ for almost 3 years, beginner __SQL__ _(Sequel)_ for 1 year.
+3. _🌱 I'm having an year experience in C programming, and currently learning Python.__
+4. Tech enthusiast, reader, learning graphic designing.
+5. Loves learning new _skills_.
+6. Have learnt basics of __HTML__ for almost 3 years, beginner __SQL__ _(Sequel)_ for 1 year.
   
 </details>
 <!---
