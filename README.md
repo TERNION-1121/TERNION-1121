@@ -14,6 +14,8 @@ You can call me TERNION or Vikrant :)
 <hr>
 
 Checkout my [Codewars Profile!](https://www.codewars.com/users/TERNION2205)
+
+![github](https://user-images.githubusercontent.com/97667653/175048934-1851f055-e874-4c08-8beb-5ea9a890309b.svg)
 <!---
 TERNION-1121/TERNION-1121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
