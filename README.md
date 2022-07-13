@@ -28,7 +28,9 @@ Graphic Designer 🎨 and Swimmer 🏊🏽‍♂️ when not coding 💻
 <a href = "https://twitter.com/ternion_stylo" target = "blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt = "Twitter" height = "50" width = "50"/></a>
 <hr>
 
-Checkout my [Codewars Profile!](https://www.codewars.com/users/TERNION2205)
+Checkout my Codewars Profile!)
+<br>
+<br>
 <a href = "https://www.codewars.com/users/TERNION2205" target = "blank"><img src = "https://www.codewars.com/users/TERNION2205/badges/large" alt = "Codewars"></a>
 <!---
 TERNION-1121/TERNION-1121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
