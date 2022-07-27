@@ -12,7 +12,7 @@ A 9th grade student, pursuing his interests in part-time 😄
 
 Graphic Designer 🎨 and Swimmer 🏊🏽‍♂️ when not coding 💻 
 
-- Talk to me on Discord! **TERNION#5354**
+- Talk to me on Discord! **VikrantSB#5354**
 - My Email: `ternion205stylo@gmail.com`
 
 <br>
