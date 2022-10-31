@@ -23,7 +23,7 @@ Graphic Designing 🎨, Photography 📸  and Swimming 🏊🏽‍♂️ when no
 
 ### Let's Connect!
 
-<a href = "https://www.instagram.com/shivy.ternion12/" target = "blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt = "Instagram" height = "50" width = "50"/></a>
+<a href = "https://www.instagram.com/ternion.stylo/" target = "blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt = "Instagram" height = "50" width = "50"/></a>
 <a href = "https://twitter.com/ternion_stylo" target = "__blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt = "Twitter" height = "50" width = "50"/></a>
 <hr>
 
