@@ -8,7 +8,7 @@
 
 I live in Uttarakhand, India ⛰
 
-A 9th grade student, pursuing his interests in part-time 😄
+A 10th grade student, pursuing his interests in part-time 😄
 
 Graphic Designing 🎨, Photography 📸  and Swimming 🏊🏽‍♂️ when not coding 💻 
 
