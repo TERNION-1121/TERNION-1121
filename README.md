@@ -21,10 +21,6 @@ Graphic Designing 🎨, Photography 📸  and Swimming 🏊🏽‍♂️ when no
 <a href = "https://python.org" target = "blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt = "Python" height = "50" width = "50"/></a>
 <a href = "https://en.wikipedia.org/wiki/C_(programming_language)" target = "blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt = "C lang" height = "50" width = "50"/></a>
 
-### Let's Connect!
-
-<a href = "https://www.instagram.com/ternion.stylo/" target = "blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt = "Instagram" height = "50" width = "50"/></a>
-<a href = "https://twitter.com/ternion_stylo" target = "__blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt = "Twitter" height = "50" width = "50"/></a>
 <hr>
 
 Checkout my Codewars Profile!)
