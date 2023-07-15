@@ -1,5 +1,5 @@
 <h1 align = "center">👋 Hi, I’m @TERNION-1121!</h1>
-<h3 align = "center">A 14 y/o kid</h3>
+<h3 align = "center">A 15 y/o kid</h3>
 <br>
 <h5 align = "center">You can call me TERNION or Vikrant :)</h5>
 
