@@ -36,6 +36,12 @@ Checkout my Profiles on various Coding Platforms!
 <a href = "https://www.codingninjas.com/studio/profile/vikrant2205" target = "blank"><img src = "https://asset.brandfetch.io/idQVGbrvGL/idFrWdCkB5.png" alt = "CodingNinjas Studio" height = "75" width = "180"></a>
 <a href = "https://www.hackerrank.com/ternion205stylo?hr_r=1" target = "blank"><img src = "https://sr-marketplace-prod.s3.amazonaws.com/wp-content/uploads/2015/08/HackerRank1.png" alt = "HackerRank" height = "75" width = "100"></a>
 
+<br>
+<hr>
+<br>
+
+[![TERNION's GitHub stats](https://github-readme-stats.vercel.app/api?username=TERNION-1121)](https://github.com/anuraghazra/github-readme-stats)
+
 [^1]: Thanks to [JacobinLinCool](https://github.com/JacobLinCool/LeetCode-Stats-Card) for the LeetCode Stats Card :)
 <!---
 TERNION-1121/TERNION-1121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
