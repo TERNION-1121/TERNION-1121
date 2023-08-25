@@ -40,9 +40,16 @@ Checkout my Profiles on various Coding Platforms!
 <hr>
 <br>
 
-[![TERNION's GitHub stats](https://github-readme-stats.vercel.app/api?username=TERNION-1121)](https://github.com/anuraghazra/github-readme-stats)
+[![TERNION's GitHub stats](https://github-readme-stats.vercel.app/api?username=TERNION-1121)](https://github.com/anuraghazra/github-readme-stats) [^2]
+
+<br>
+
+Currently looking forward for collaboration in the following projects:
+- [Othello MiniMax A.I.](https://github.com/TERNION-1121/Othello-Reversi-Game)
+- Flowchart to Python Code (contact me if you would like to talk about/ collaborate for this project)
 
 [^1]: Thanks to [JacobinLinCool](https://github.com/JacobLinCool/LeetCode-Stats-Card) for the LeetCode Stats Card :)
+[^2]: Thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for the GitHub stats Card :)
 <!---
 TERNION-1121/TERNION-1121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
