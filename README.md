@@ -44,9 +44,10 @@ Checkout my Profiles on various Coding Platforms!
 
 <br>
 
-Currently looking forward for collaboration in the following projects:
+Future Aspirations ✨
 - [Othello MiniMax A.I.](https://github.com/TERNION-1121/Othello-Reversi-Game)
-- Flowchart to Python Code (contact me if you would like to talk about/ collaborate for this project)
+- Lunar Lander
+
 
 [^1]: Thanks to [JacobinLinCool](https://github.com/JacobLinCool/LeetCode-Stats-Card) for the LeetCode Stats Card :)
 [^2]: Thanks to [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats) for the GitHub stats Card :)
