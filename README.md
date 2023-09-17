@@ -46,7 +46,10 @@ Checkout my Profiles on various Coding Platforms!
 
 Future Aspirations ✨
 - [Othello MiniMax A.I.](https://github.com/TERNION-1121/Othello-Reversi-Game)
-- Lunar Lander
+- Video Game: Lunar Lander
+- Video Game: DreamScape
+- Command Line Text Editor
+- Expense Tracker
 
 
 [^1]: Thanks to [JacobinLinCool](https://github.com/JacobLinCool/LeetCode-Stats-Card) for the LeetCode Stats Card :)
