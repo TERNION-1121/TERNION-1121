@@ -45,7 +45,6 @@ Checkout my Profiles on various Coding Platforms!
 <br>
 
 Future Aspirations ✨
-- [Othello MiniMax A.I.](https://github.com/TERNION-1121/Othello-Reversi-Game)
 - Video Game: Lunar Lander
 - Video Game: DreamScape
 - Command Line Text Editor
