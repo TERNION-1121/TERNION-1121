@@ -16,6 +16,8 @@ Mathematics 📝, Photography 📸  and Swimming 🏊🏽‍♂️ when not codi
 
 <br>
 
+[![TERNION's GitHub stats](https://github-readme-stats.vercel.app/api?username=TERNION-1121&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) [^2]
+
 ### Languages and Tools
 
 <a href = "https://python.org" target = "blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt = "Python" height = "50" width = "50"/></a>
@@ -27,28 +29,24 @@ Mathematics 📝, Photography 📸  and Swimming 🏊🏽‍♂️ when not codi
 Checkout my Profiles on various Coding Platforms!
 <br>
 <br>
+<a href = "https://www.codingninjas.com/studio/profile/vikrant2205" target = "blank"><img src = "https://files.codingninjas.com/new-cn-logos-31142.svg" alt = "CodingNinjas Studio" height = "75" width = "180"></a>
+<br>
 <a href = "https://www.codewars.com/users/TERNION2205" target = "blank"><img src = "https://www.codewars.com/users/TERNION2205/badges/large" alt = "Codewars"></a>
 <br>
 <br>
 <a href = "https://leetcode.com/TERNION2205/" target = "blank"><img src = "https://leetcard.jacoblin.cool/TERNION2205?theme=dark" alt = "LeetCode"></a> [^1]
 <br>
 <br>
-<a href = "https://www.codingninjas.com/studio/profile/vikrant2205" target = "blank"><img src = "https://asset.brandfetch.io/idQVGbrvGL/idFrWdCkB5.png" alt = "CodingNinjas Studio" height = "75" width = "180"></a>
-<a href = "https://www.hackerrank.com/ternion205stylo?hr_r=1" target = "blank"><img src = "https://sr-marketplace-prod.s3.amazonaws.com/wp-content/uploads/2015/08/HackerRank1.png" alt = "HackerRank" height = "75" width = "100"></a>
+<a href = "https://www.hackerrank.com/ternion205stylo?hr_r=1" target = "blank"><img src = "https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt = "HackerRank" height = "75" width = "100"></a>
 
-<br>
 <hr>
-<br>
-
-[![TERNION's GitHub stats](https://github-readme-stats.vercel.app/api?username=TERNION-1121)](https://github.com/anuraghazra/github-readme-stats) [^2]
-
 <br>
 
 Future Aspirations ✨
 - Video Game: Lunar Lander
 - Video Game: DreamScape
 - Command Line Text Editor
-- Expense Tracker
+- Expense Tracker using Flask
 
 
 [^1]: Thanks to [JacobinLinCool](https://github.com/JacobLinCool/LeetCode-Stats-Card) for the LeetCode Stats Card :)
