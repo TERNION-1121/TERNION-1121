@@ -1,14 +1,17 @@
-<h1 align = "center">👋 Hi, I’m @TERNION-1121!</h1>
-<h3 align = "center">A 15 y/o kid</h3>
-<br>
-<h5 align = "center">You can call me TERNION or Vikrant :)</h5>
+## 👋 Hi, I’m Vikrant
 
+#### Trying to be competitive in my skills ⚔, while sailing through High-School 🎒.
 
-## About Me
+ 
+[![An image of @ternion1121's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ternion1121)](https://holopin.io/@ternion1121)
+
+<hr>
+
+### About Me
 
 I live in Uttarakhand, India ⛰
 
-A 10th grade student, pursuing his interests in part-time 😄
+A 10th grade student, pursuing his interests in free-time 
 
 Mathematics 📝, Photography 📸  and Swimming 🏊🏽‍♂️ when not coding 💻 
 
@@ -16,28 +19,23 @@ Mathematics 📝, Photography 📸  and Swimming 🏊🏽‍♂️ when not codi
 
 <br>
 
-[![TERNION's GitHub stats](https://github-readme-stats.vercel.app/api?username=TERNION-1121&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) [^2]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TERNION-1121&layout=donut&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-### Languages and Tools
 
-<a href = "https://python.org" target = "blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt = "Python" height = "50" width = "50"/></a>
-<a href = "https://en.wikipedia.org/wiki/C_(programming_language)" target = "blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt = "C lang" height = "50" width = "50"/></a>
-<a href = "https://en.wikipedia.org/wiki/C%2B%2B" target = "blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt = "C lang" height = "50" width = "50"/></a>
+[![TERNION's GitHub stats](https://github-readme-stats.vercel.app/api?username=TERNION-1121&show_icons=true&theme=prussian&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) [^2]
 
 <hr>
 
 Checkout my Profiles on various Coding Platforms!
 <br>
 <br>
+<a href = "https://www.hackerrank.com/ternion205stylo?hr_r=1" target = "blank"><img src = "https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt = "HackerRank" height = "75" width = "100"></a>
 <a href = "https://www.codingninjas.com/studio/profile/vikrant2205" target = "blank"><img src = "https://files.codingninjas.com/new-cn-logos-31142.svg" alt = "CodingNinjas Studio" height = "75" width = "180"></a>
 <br>
 <a href = "https://www.codewars.com/users/TERNION2205" target = "blank"><img src = "https://www.codewars.com/users/TERNION2205/badges/large" alt = "Codewars"></a>
 <br>
 <br>
 <a href = "https://leetcode.com/TERNION2205/" target = "blank"><img src = "https://leetcard.jacoblin.cool/TERNION2205?theme=dark" alt = "LeetCode"></a> [^1]
-<br>
-<br>
-<a href = "https://www.hackerrank.com/ternion205stylo?hr_r=1" target = "blank"><img src = "https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt = "HackerRank" height = "75" width = "100"></a>
 
 <hr>
 <br>
