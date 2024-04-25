@@ -10,8 +10,7 @@
 ### About Me
 
 I live in Uttarakhand, India ⛰
-
-A 10th grade student, pursuing his interests in free-time 
+A 11th grade student, pursuing his interests in free-time 
 
 Mathematics 📝, Photography 📸  and Swimming 🏊🏽‍♂️ when not coding 💻 
 
@@ -22,7 +21,7 @@ Mathematics 📝, Photography 📸  and Swimming 🏊🏽‍♂️ when not codi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TERNION-1121&layout=donut&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![TERNION's GitHub stats](https://github-readme-stats.vercel.app/api?username=TERNION-1121&show_icons=true&theme=prussian&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats) [^2]
+[![TERNION's GitHub stats](https://github-readme-stats.vercel.app/api?username=TERNION-1121&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats) [^2]
 
 <hr>
 
