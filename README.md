@@ -10,6 +10,7 @@
 ### About Me
 
 I live in Uttarakhand, India ⛰
+
 A 11th grade student, pursuing his interests in free-time 
 
 Mathematics 📝, Photography 📸  and Swimming 🏊🏽‍♂️ when not coding 💻 
@@ -43,7 +44,7 @@ Future Aspirations ✨
 - Video Game: Lunar Lander
 - Video Game: DreamScape
 - Command Line Text Editor
-- Expense Tracker using Flask
+- Go 
 
 
 [^1]: Thanks to [JacobinLinCool](https://github.com/JacobLinCool/LeetCode-Stats-Card) for the LeetCode Stats Card :)
