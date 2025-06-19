@@ -11,9 +11,9 @@
 
 I live in Uttarakhand, India ⛰
 
-A 11th grade student, pursuing his interests in free-time 
+A 12th grade student, pursuing his interests in free-time 
 
-Mathematics 📝, Photography 📸  and Swimming 🏊🏽‍♂️ when not coding 💻 
+Science ⚛, Mathematics 📝 and Photography 📸  when not coding 💻 
 
 - My Email: `ternion205stylo@gmail.com`
 
